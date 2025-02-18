@@ -101,19 +101,21 @@ export function Header() {
                 Nederlands
               </DropdownMenuItem>
               <DropdownMenuItem>
-                <svg
-                  width="30"
-                  height="20"
-                  viewBox="0 0 30 20"
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="mr-2 h-4 w-6"
-                >
-                  <rect width="30" height="6.67" fill="#00732F" />
-                  <rect y="6.67" width="30" height="6.67" fill="#FFFFFF" />
-                  <rect y="13.33" width="30" height="6.67" fill="#000000" />
-                  <rect width="10" height="20" fill="#FF0000" />
-                </svg>
-                العربية
+                <a href="https://thumbs.dreamstime.com/z/camel-bearing-box-thar-desert-signifies-long-haul-deliveries-rural-areas-india-348576024.jpg?ct=jpeg">
+                  <svg
+                    width="30"
+                    height="20"
+                    viewBox="0 0 30 20"
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="mr-2 h-4 w-6"
+                  >
+                    <rect width="30" height="6.67" fill="#00732F" />
+                    <rect y="6.67" width="30" height="6.67" fill="#FFFFFF" />
+                    <rect y="13.33" width="30" height="6.67" fill="#000000" />
+                    <rect width="10" height="20" fill="#FF0000" />
+                  </svg>
+                  العربية
+                </a>
               </DropdownMenuItem>
             </DropdownMenuContent>
           </DropdownMenu>
