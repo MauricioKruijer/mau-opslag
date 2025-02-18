@@ -42,7 +42,7 @@ export function Header() {
         </div>
         <div className="flex items-center gap-4">
           <div className="hidden items-center gap-2 lg:flex">
-            <span className="text-xs font-medium text-secondary">BEL GRATIS</span>
+            <span className="text-xs font-medium text-secondary uppercase">Bel gratis</span>
             <a href="tel:0800-MAU-VIES" className="flex items-center gap-2 text-lg font-bold text-primary-foreground">
               <Phone className="h-4 w-4" />
               0800 - MAU VI ES
